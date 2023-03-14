@@ -48,7 +48,7 @@ const config = {
       key: "discord",
       label: "Discord",
       iconUrl: Discord,
-      redirectUrl: "https://discord.com/invite/ahxuCtm",
+      redirectUrl: "https://discord.gg/ZXMvyNEH",
     },
     {
       key: "github",

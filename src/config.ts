@@ -30,7 +30,7 @@ const config = {
       key: "linkedin",
       label: "LinkedIn",
       iconUrl: LinkedIn,
-      redirectUrl: "https://www.linkedin.com/company/spheron/",
+      redirectUrl: "https://www.linkedin.com/in/kattoju-prashanth-999908229/",
     },
     // {
     //   "key": "medium",
